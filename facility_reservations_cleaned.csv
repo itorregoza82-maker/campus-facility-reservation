@@ -1,0 +1,401 @@
+Reservation_ID,Facility_Type,User_Type,Time_Category,Reservation_Lead_Days,Participants,Day_of_Week,Purpose,Usage_Status,Actual_Attendance,Cancellation_Days_Before,Reservation_Outcome,Lead_Time_Category,Attendance_Ratio
+RES-0001,Conference Room,Student,Evening,5.0,34.0,Friday,Training,Cancelled,0.0,4.0,Not Completed,Short Lead,0.0
+RES-0002,Laboratory,Organization,Morning,41.0,30.0,Friday,Class Activity,Used,22.0,,Completed,Early Booking,0.7333
+RES-0003,Conference Room,Faculty,Evening,8.0,21.0,Thursday,Meeting,Used,14.0,,Completed,Medium Lead,0.6667
+RES-0004,Conference Room,Student,Afternoon,4.0,28.0,Thursday,Meeting,Cancelled,0.0,4.0,Not Completed,Short Lead,0.0
+RES-0005,Classroom,Organization,Morning,9.0,25.0,Tuesday,Training,Used,19.0,,Completed,Medium Lead,0.76
+RES-0006,Multimedia Room,Organization,Morning,10.0,18.0,Thursday,Workshop,Used,9.0,,Completed,Medium Lead,0.5
+RES-0007,Conference Room,Student,Afternoon,6.0,24.0,Saturday,Workshop,Used,16.0,,Completed,Short Lead,0.6667
+RES-0008,Conference Room,Organization,Morning,13.0,31.0,Thursday,Workshop,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0009,Classroom,Student,Afternoon,3.0,18.0,Thursday,Class Activity,Used,16.0,,Completed,Short Lead,0.8889
+RES-0010,Laboratory,Organization,Evening,5.0,18.0,Wednesday,Meeting,Used,12.0,,Completed,Short Lead,0.6667
+RES-0011,Laboratory,Faculty,Morning,10.0,10.0,Friday,Class Activity,Used,9.0,,Completed,Medium Lead,0.9
+RES-0012,Multimedia Room,Faculty,Morning,8.0,33.0,Saturday,Training,Cancelled,0.0,8.0,Not Completed,Medium Lead,0.0
+RES-0013,Laboratory,Student,Evening,15.0,35.0,Monday,Meeting,Cancelled,0.0,0.0,Not Completed,Early Booking,0.0
+RES-0014,Conference Room,Organization,Afternoon,26.0,31.0,Tuesday,Meeting,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0015,Laboratory,Student,Morning,8.0,41.0,Wednesday,Class Activity,Used,39.0,,Completed,Medium Lead,0.9512
+RES-0016,Classroom,Student,Evening,32.0,29.0,Wednesday,Class Activity,Used,21.0,,Completed,Early Booking,0.7241
+RES-0017,Laboratory,Student,Evening,4.0,33.0,Thursday,Workshop,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0018,Classroom,Faculty,Afternoon,25.0,32.0,Monday,Class Activity,Used,19.0,,Completed,Early Booking,0.5938
+RES-0019,Conference Room,Student,Afternoon,3.0,27.0,Wednesday,Class Activity,Cancelled,0.0,4.0,Not Completed,Short Lead,0.0
+RES-0020,Laboratory,Organization,Morning,14.0,21.0,Thursday,Training,Cancelled,0.0,4.0,Not Completed,Medium Lead,0.0
+RES-0021,Conference Room,Faculty,Morning,6.0,57.0,Thursday,Meeting,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0022,Laboratory,Student,Afternoon,6.0,22.0,Thursday,Meeting,Cancelled,0.0,4.0,Not Completed,Short Lead,0.0
+RES-0023,Multimedia Room,Student,Morning,38.0,19.0,Thursday,Meeting,Used,16.0,,Completed,Early Booking,0.8421
+RES-0024,Multimedia Room,Student,Afternoon,18.0,34.0,Thursday,Training,Used,26.0,,Completed,Early Booking,0.7647
+RES-0025,Conference Room,Faculty,Evening,9.0,31.0,Friday,Class Activity,Used,22.0,,Completed,Medium Lead,0.7097
+RES-0026,Classroom,Organization,Morning,1.0,10.0,Thursday,Training,Used,9.0,,Completed,Last Minute,0.9
+RES-0027,Laboratory,Student,Afternoon,2.0,43.0,Wednesday,Organization Event,Cancelled,0.0,2.0,Not Completed,Last Minute,0.0
+RES-0028,Classroom,Organization,Morning,4.0,27.0,Thursday,Workshop,Used,17.0,,Completed,Short Lead,0.6296
+RES-0029,Classroom,Student,Evening,10.0,14.0,Monday,Meeting,Used,14.0,,Completed,Medium Lead,1.0
+RES-0030,Conference Room,Organization,Morning,14.0,43.0,Tuesday,Training,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0031,Conference Room,Organization,Afternoon,5.0,36.0,Wednesday,Meeting,Used,32.0,,Completed,Short Lead,0.8889
+RES-0032,Multimedia Room,Faculty,Afternoon,4.0,12.0,Friday,Meeting,Used,12.0,,Completed,Short Lead,1.0
+RES-0033,Classroom,Faculty,Morning,15.0,51.0,Thursday,Meeting,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0034,Laboratory,Organization,Afternoon,7.0,37.0,Monday,Class Activity,Used,20.0,,Completed,Short Lead,0.5405
+RES-0035,Laboratory,Student,Afternoon,4.0,28.0,Thursday,Class Activity,Cancelled,0.0,10.0,Not Completed,Short Lead,0.0
+RES-0036,Classroom,Student,Afternoon,1.0,49.0,Tuesday,Meeting,Cancelled,0.0,5.0,Not Completed,Last Minute,0.0
+RES-0037,Classroom,Student,Evening,13.0,30.0,Thursday,Class Activity,Used,27.0,,Completed,Medium Lead,0.9
+RES-0038,Laboratory,Student,Evening,10.0,28.0,Friday,Meeting,Used,17.0,,Completed,Medium Lead,0.6071
+RES-0039,Classroom,Faculty,Morning,15.0,19.0,Thursday,Meeting,Cancelled,0.0,4.0,Not Completed,Early Booking,0.0
+RES-0040,Conference Room,Faculty,Afternoon,23.0,36.0,Thursday,Organization Event,Cancelled,0.0,8.0,Not Completed,Early Booking,0.0
+RES-0041,Laboratory,Organization,Morning,28.0,34.0,Tuesday,Class Activity,Used,19.0,,Completed,Early Booking,0.5588
+RES-0042,Conference Room,Student,Evening,20.0,28.0,Wednesday,Workshop,Cancelled,0.0,0.0,Not Completed,Early Booking,0.0
+RES-0043,Conference Room,Faculty,Afternoon,8.0,18.0,Friday,Meeting,Cancelled,0.0,1.0,Not Completed,Medium Lead,0.0
+RES-0044,Classroom,Student,Morning,9.0,30.0,Thursday,Class Activity,Cancelled,0.0,12.0,Not Completed,Medium Lead,0.0
+RES-0045,Conference Room,Student,Morning,19.0,27.0,Wednesday,Class Activity,Cancelled,0.0,8.0,Not Completed,Early Booking,0.0
+RES-0046,Conference Room,Faculty,Evening,5.0,11.0,Tuesday,Class Activity,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0047,Laboratory,Organization,Morning,6.0,9.0,Monday,Class Activity,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0048,Classroom,Faculty,Afternoon,17.0,35.0,Monday,Class Activity,Used,28.0,,Completed,Early Booking,0.8
+RES-0049,Conference Room,Student,Morning,29.0,1.0,Monday,Meeting,Used,1.0,,Completed,Early Booking,1.0
+RES-0050,Classroom,Faculty,Evening,19.0,31.0,Tuesday,Meeting,Used,17.0,,Completed,Early Booking,0.5484
+RES-0051,Classroom,Student,Morning,17.0,22.0,Saturday,Class Activity,Used,15.0,,Completed,Early Booking,0.6818
+RES-0052,Classroom,Organization,Morning,10.0,45.0,Wednesday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0053,Conference Room,Faculty,Evening,5.0,22.0,Tuesday,Class Activity,Used,13.0,,Completed,Short Lead,0.5909
+RES-0054,Conference Room,Student,Evening,16.0,37.0,Monday,Meeting,Used,31.0,,Completed,Early Booking,0.8378
+RES-0055,Conference Room,Student,Morning,26.0,23.0,Tuesday,Class Activity,Used,14.0,,Completed,Early Booking,0.6087
+RES-0056,Conference Room,Student,Afternoon,8.0,29.0,Friday,Meeting,Used,22.0,,Completed,Medium Lead,0.7586
+RES-0057,Laboratory,Organization,Evening,6.0,38.0,Tuesday,Class Activity,Cancelled,0.0,10.0,Not Completed,Short Lead,0.0
+RES-0058,Laboratory,Student,Evening,6.0,22.0,Friday,Class Activity,Cancelled,0.0,8.0,Not Completed,Short Lead,0.0
+RES-0059,Classroom,Faculty,Morning,13.0,41.0,Friday,Organization Event,Used,32.0,,Completed,Medium Lead,0.7805
+RES-0060,Classroom,Faculty,Afternoon,22.0,15.0,Monday,Class Activity,Used,7.0,,Completed,Early Booking,0.4667
+RES-0061,Conference Room,Faculty,Evening,1.0,32.0,Thursday,Class Activity,Cancelled,0.0,10.0,Not Completed,Last Minute,0.0
+RES-0062,Laboratory,Student,Evening,11.0,40.0,Saturday,Class Activity,Used,20.0,,Completed,Medium Lead,0.5
+RES-0063,Laboratory,Organization,Evening,3.0,37.0,Wednesday,Organization Event,Cancelled,0.0,10.0,Not Completed,Short Lead,0.0
+RES-0064,Conference Room,Faculty,Afternoon,33.0,53.0,Monday,Workshop,Used,48.0,,Completed,Early Booking,0.9057
+RES-0065,Laboratory,Faculty,Morning,12.0,18.0,Saturday,Workshop,Cancelled,0.0,9.0,Not Completed,Medium Lead,0.0
+RES-0066,Laboratory,Faculty,Evening,8.0,10.0,Friday,Organization Event,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0067,Laboratory,Faculty,Evening,12.0,15.0,Wednesday,Class Activity,Cancelled,0.0,5.0,Not Completed,Medium Lead,0.0
+RES-0068,Classroom,Organization,Evening,3.0,37.0,Wednesday,Organization Event,Cancelled,0.0,4.0,Not Completed,Short Lead,0.0
+RES-0069,Classroom,Student,Morning,4.0,34.0,Tuesday,Class Activity,Cancelled,0.0,3.0,Not Completed,Short Lead,0.0
+RES-0070,Laboratory,Student,Morning,11.0,29.0,Friday,Workshop,Cancelled,0.0,14.0,Not Completed,Medium Lead,0.0
+RES-0071,Classroom,Student,Evening,17.0,13.0,Wednesday,Meeting,Used,12.0,,Completed,Early Booking,0.9231
+RES-0072,Laboratory,Student,Morning,1.0,38.0,Monday,Meeting,No-Show,0.0,,Not Completed,Last Minute,0.0
+RES-0073,Conference Room,Student,Evening,22.0,12.0,Thursday,Organization Event,Used,10.0,,Completed,Early Booking,0.8333
+RES-0074,Classroom,Student,Morning,8.0,43.0,Saturday,Class Activity,Used,33.0,,Completed,Medium Lead,0.7674
+RES-0075,Classroom,Student,Afternoon,17.0,65.0,Friday,Organization Event,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0076,Classroom,Student,Evening,13.0,33.0,Tuesday,Meeting,Cancelled,0.0,2.0,Not Completed,Medium Lead,0.0
+RES-0077,Classroom,Student,Morning,30.0,36.0,Monday,Workshop,Used,18.0,,Completed,Early Booking,0.5
+RES-0078,Conference Room,Faculty,Morning,13.0,22.0,Saturday,Organization Event,Used,19.0,,Completed,Medium Lead,0.8636
+RES-0079,Laboratory,Faculty,Afternoon,22.0,4.0,Saturday,Class Activity,Used,3.0,,Completed,Early Booking,0.75
+RES-0080,Conference Room,Student,Afternoon,7.0,20.0,Wednesday,Organization Event,Cancelled,0.0,14.0,Not Completed,Short Lead,0.0
+RES-0081,Conference Room,Student,Morning,3.0,14.0,Thursday,Workshop,Used,10.0,,Completed,Short Lead,0.7143
+RES-0082,Laboratory,Student,Afternoon,19.0,9.0,Wednesday,Workshop,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0083,Conference Room,Faculty,Evening,2.0,50.0,Wednesday,Class Activity,No-Show,0.0,,Not Completed,Last Minute,0.0
+RES-0084,Classroom,Student,Afternoon,17.0,32.0,Monday,Meeting,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0085,Classroom,Student,Morning,4.0,33.0,Monday,Workshop,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0086,Classroom,Student,Morning,12.0,24.0,Tuesday,Meeting,Used,21.0,,Completed,Medium Lead,0.875
+RES-0087,Conference Room,Student,Morning,31.0,26.0,Friday,Class Activity,Used,16.0,,Completed,Early Booking,0.6154
+RES-0088,Laboratory,Student,Morning,16.0,41.0,Monday,Class Activity,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0089,Classroom,Faculty,Morning,9.0,28.0,Tuesday,Organization Event,Used,26.0,,Completed,Medium Lead,0.9286
+RES-0090,Laboratory,Faculty,Afternoon,14.0,35.0,Wednesday,Class Activity,Used,22.0,,Completed,Medium Lead,0.6286
+RES-0091,Classroom,Faculty,Morning,7.0,25.0,Tuesday,Workshop,Used,18.0,,Completed,Short Lead,0.72
+RES-0092,Conference Room,Faculty,Evening,38.0,24.0,Monday,Organization Event,Used,23.0,,Completed,Early Booking,0.9583
+RES-0093,Laboratory,Faculty,Morning,6.0,0.0,Wednesday,Class Activity,Cancelled,0.0,1.0,Not Completed,Short Lead,0.0
+RES-0094,Laboratory,Student,Morning,9.0,2.0,Tuesday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0095,Classroom,Faculty,Evening,15.0,25.0,Thursday,Workshop,Cancelled,0.0,5.0,Not Completed,Early Booking,0.0
+RES-0096,Laboratory,Student,Evening,13.0,29.0,Friday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0097,Laboratory,Student,Morning,14.0,11.0,Monday,Workshop,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0098,Classroom,Faculty,Morning,7.0,28.0,Friday,Workshop,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0099,Classroom,Student,Morning,8.0,29.0,Friday,Workshop,Cancelled,0.0,9.0,Not Completed,Medium Lead,0.0
+RES-0100,Multimedia Room,Student,Afternoon,18.0,1.0,Friday,Meeting,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0101,Multimedia Room,Faculty,Afternoon,18.0,16.0,Thursday,Workshop,Used,15.0,,Completed,Early Booking,0.9375
+RES-0102,Conference Room,Organization,Morning,13.0,33.0,Thursday,Workshop,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0103,Classroom,Organization,Morning,23.0,33.0,Thursday,Class Activity,Used,26.0,,Completed,Early Booking,0.7879
+RES-0104,Multimedia Room,Student,Afternoon,19.0,13.0,Thursday,Workshop,Used,9.0,,Completed,Early Booking,0.6923
+RES-0105,Conference Room,Student,Evening,18.0,30.0,Monday,Organization Event,Used,22.0,,Completed,Early Booking,0.7333
+RES-0106,Conference Room,Organization,Afternoon,2.0,41.0,Saturday,Workshop,Cancelled,0.0,9.0,Not Completed,Last Minute,0.0
+RES-0107,Laboratory,Student,Afternoon,13.0,38.0,Thursday,Class Activity,Used,18.0,,Completed,Medium Lead,0.4737
+RES-0108,Classroom,Organization,Morning,12.0,27.0,Friday,Class Activity,Cancelled,0.0,11.0,Not Completed,Medium Lead,0.0
+RES-0109,Classroom,Student,Morning,25.0,22.0,Tuesday,Class Activity,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0110,Multimedia Room,Student,Morning,0.0,29.0,Monday,Class Activity,No-Show,0.0,,Not Completed,Last Minute,0.0
+RES-0111,Laboratory,Student,Evening,9.0,34.0,Wednesday,Class Activity,Cancelled,0.0,5.0,Not Completed,Medium Lead,0.0
+RES-0112,Classroom,Organization,Evening,11.0,31.0,Wednesday,Organization Event,Used,21.0,,Completed,Medium Lead,0.6774
+RES-0113,Classroom,Student,Evening,4.0,36.0,Wednesday,Class Activity,Cancelled,0.0,9.0,Not Completed,Short Lead,0.0
+RES-0114,Laboratory,Student,Evening,5.0,30.0,Tuesday,Training,Used,14.0,,Completed,Short Lead,0.4667
+RES-0115,Classroom,Student,Evening,25.0,39.0,Tuesday,Class Activity,Used,26.0,,Completed,Early Booking,0.6667
+RES-0116,Conference Room,Student,Evening,14.0,29.0,Wednesday,Class Activity,Cancelled,0.0,11.0,Not Completed,Medium Lead,0.0
+RES-0117,Conference Room,Student,Morning,31.0,38.0,Tuesday,Meeting,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0118,Conference Room,Faculty,Morning,9.0,39.0,Saturday,Class Activity,Cancelled,0.0,1.0,Not Completed,Medium Lead,0.0
+RES-0119,Laboratory,Student,Morning,3.0,18.0,Monday,Training,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0120,Laboratory,Organization,Afternoon,8.0,4.0,Tuesday,Organization Event,Cancelled,0.0,4.0,Not Completed,Medium Lead,0.0
+RES-0121,Laboratory,Organization,Morning,7.0,48.0,Tuesday,Organization Event,Cancelled,0.0,11.0,Not Completed,Short Lead,0.0
+RES-0122,Laboratory,Student,Evening,16.0,31.0,Wednesday,Class Activity,Used,18.0,,Completed,Early Booking,0.5806
+RES-0123,Classroom,Student,Afternoon,16.0,6.0,Wednesday,Training,Used,4.0,,Completed,Early Booking,0.6667
+RES-0124,Laboratory,Faculty,Afternoon,14.0,19.0,Thursday,Class Activity,Used,13.0,,Completed,Medium Lead,0.6842
+RES-0125,Classroom,Student,Morning,37.0,38.0,Saturday,Organization Event,Used,27.0,,Completed,Early Booking,0.7105
+RES-0126,Laboratory,Student,Morning,22.0,24.0,Tuesday,Meeting,Cancelled,0.0,12.0,Not Completed,Early Booking,0.0
+RES-0127,Classroom,Organization,Morning,5.0,21.0,Thursday,Class Activity,Cancelled,0.0,3.0,Not Completed,Short Lead,0.0
+RES-0128,Classroom,Organization,Evening,19.0,46.0,Monday,Class Activity,Cancelled,0.0,14.0,Not Completed,Early Booking,0.0
+RES-0129,Classroom,Faculty,Afternoon,10.0,14.0,Tuesday,Class Activity,Cancelled,0.0,11.0,Not Completed,Medium Lead,0.0
+RES-0130,Laboratory,Student,Evening,9.0,18.0,Wednesday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0131,Classroom,Faculty,Morning,24.0,31.0,Monday,Organization Event,Cancelled,0.0,0.0,Not Completed,Early Booking,0.0
+RES-0132,Multimedia Room,Faculty,Morning,5.0,33.0,Thursday,Training,Used,24.0,,Completed,Short Lead,0.7273
+RES-0133,Laboratory,Student,Morning,19.0,34.0,Thursday,Organization Event,Used,21.0,,Completed,Early Booking,0.6176
+RES-0134,Classroom,Faculty,Evening,17.0,40.0,Thursday,Class Activity,Cancelled,0.0,5.0,Not Completed,Early Booking,0.0
+RES-0135,Laboratory,Student,Evening,5.0,31.0,Wednesday,Workshop,Cancelled,0.0,14.0,Not Completed,Short Lead,0.0
+RES-0136,Classroom,Student,Morning,2.0,34.0,Thursday,Class Activity,Cancelled,0.0,7.0,Not Completed,Last Minute,0.0
+RES-0137,Multimedia Room,Student,Evening,10.0,25.0,Wednesday,Meeting,Used,15.0,,Completed,Medium Lead,0.6
+RES-0138,Laboratory,Student,Morning,21.0,29.0,Monday,Class Activity,Cancelled,0.0,7.0,Not Completed,Early Booking,0.0
+RES-0139,Conference Room,Student,Evening,13.0,29.0,Monday,Class Activity,Cancelled,0.0,3.0,Not Completed,Medium Lead,0.0
+RES-0140,Classroom,Organization,Morning,25.0,31.0,Thursday,Workshop,Used,23.0,,Completed,Early Booking,0.7419
+RES-0141,Laboratory,Organization,Morning,12.0,38.0,Saturday,Class Activity,Cancelled,0.0,1.0,Not Completed,Medium Lead,0.0
+RES-0142,Laboratory,Faculty,Evening,26.0,35.0,Monday,Meeting,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0143,Multimedia Room,Organization,Morning,6.0,29.0,Wednesday,Workshop,Used,24.0,,Completed,Short Lead,0.8276
+RES-0144,Laboratory,Organization,Morning,14.0,17.0,Friday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0145,Laboratory,Student,Afternoon,8.0,29.0,Friday,Organization Event,Used,18.0,,Completed,Medium Lead,0.6207
+RES-0146,Classroom,Student,Morning,9.0,28.0,Wednesday,Meeting,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0147,Classroom,Student,Afternoon,10.0,31.0,Thursday,Training,Cancelled,0.0,11.0,Not Completed,Medium Lead,0.0
+RES-0148,Laboratory,Student,Evening,13.0,57.0,Thursday,Workshop,Used,45.0,,Completed,Medium Lead,0.7895
+RES-0149,Laboratory,Faculty,Evening,6.0,21.0,Friday,Workshop,Cancelled,0.0,11.0,Not Completed,Short Lead,0.0
+RES-0150,Classroom,Student,Morning,14.0,33.0,Monday,Workshop,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0151,Conference Room,Student,Afternoon,11.0,42.0,Saturday,Organization Event,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0152,Multimedia Room,Student,Morning,3.0,29.0,Monday,Workshop,Cancelled,0.0,1.0,Not Completed,Short Lead,0.0
+RES-0153,Classroom,Student,Morning,2.0,58.0,Friday,Class Activity,No-Show,0.0,,Not Completed,Last Minute,0.0
+RES-0154,Laboratory,Organization,Morning,21.0,23.0,Monday,Class Activity,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0155,Classroom,Student,Evening,9.0,32.0,Monday,Workshop,Cancelled,0.0,11.0,Not Completed,Medium Lead,0.0
+RES-0156,Conference Room,Student,Evening,3.0,18.0,Monday,Class Activity,Used,18.0,,Completed,Short Lead,1.0
+RES-0157,Classroom,Student,Evening,28.0,23.0,Wednesday,Class Activity,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0158,Conference Room,Student,Afternoon,15.0,31.0,Tuesday,Class Activity,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0159,Conference Room,Faculty,Afternoon,13.0,39.0,Monday,Meeting,Cancelled,0.0,5.0,Not Completed,Medium Lead,0.0
+RES-0160,Conference Room,Student,Afternoon,5.0,32.0,Wednesday,Class Activity,Cancelled,0.0,11.0,Not Completed,Short Lead,0.0
+RES-0161,Classroom,Student,Afternoon,3.0,44.0,Wednesday,Workshop,Used,32.0,,Completed,Short Lead,0.7273
+RES-0162,Multimedia Room,Student,Afternoon,12.0,27.0,Friday,Training,Used,13.0,,Completed,Medium Lead,0.4815
+RES-0163,Classroom,Organization,Morning,10.0,24.0,Friday,Training,Cancelled,0.0,11.0,Not Completed,Medium Lead,0.0
+RES-0164,Classroom,Faculty,Morning,4.0,63.0,Thursday,Class Activity,Cancelled,0.0,8.0,Not Completed,Short Lead,0.0
+RES-0165,Laboratory,Faculty,Evening,4.0,33.0,Monday,Meeting,Used,30.0,,Completed,Short Lead,0.9091
+RES-0166,Laboratory,Faculty,Afternoon,4.0,19.0,Tuesday,Workshop,Cancelled,0.0,7.0,Not Completed,Short Lead,0.0
+RES-0167,Conference Room,Faculty,Evening,4.0,19.0,Friday,Meeting,Cancelled,0.0,12.0,Not Completed,Short Lead,0.0
+RES-0168,Conference Room,Student,Morning,6.0,16.0,Monday,Workshop,Used,8.0,,Completed,Short Lead,0.5
+RES-0169,Classroom,Student,Afternoon,13.0,40.0,Wednesday,Class Activity,Used,37.0,,Completed,Medium Lead,0.925
+RES-0170,Multimedia Room,Student,Morning,14.0,23.0,Saturday,Organization Event,Cancelled,0.0,1.0,Not Completed,Medium Lead,0.0
+RES-0171,Classroom,Student,Morning,10.0,30.0,Saturday,Class Activity,Cancelled,0.0,8.0,Not Completed,Medium Lead,0.0
+RES-0172,Laboratory,Organization,Morning,11.0,27.0,Wednesday,Training,Used,15.0,,Completed,Medium Lead,0.5556
+RES-0173,Classroom,Student,Morning,15.0,38.0,Thursday,Workshop,Cancelled,0.0,3.0,Not Completed,Early Booking,0.0
+RES-0174,Multimedia Room,Faculty,Evening,1.0,17.0,Wednesday,Class Activity,Cancelled,0.0,4.0,Not Completed,Last Minute,0.0
+RES-0175,Classroom,Organization,Morning,12.0,14.0,Friday,Training,Cancelled,0.0,9.0,Not Completed,Medium Lead,0.0
+RES-0176,Classroom,Student,Afternoon,23.0,31.0,Monday,Class Activity,Cancelled,0.0,6.0,Not Completed,Early Booking,0.0
+RES-0177,Laboratory,Organization,Afternoon,9.0,36.0,Monday,Training,Cancelled,0.0,12.0,Not Completed,Medium Lead,0.0
+RES-0178,Multimedia Room,Faculty,Morning,20.0,32.0,Thursday,Workshop,Used,18.0,,Completed,Early Booking,0.5625
+RES-0179,Multimedia Room,Organization,Afternoon,9.0,17.0,Tuesday,Class Activity,Used,8.0,,Completed,Medium Lead,0.4706
+RES-0180,Conference Room,Student,Morning,15.0,37.0,Thursday,Class Activity,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0181,Multimedia Room,Student,Evening,13.0,18.0,Tuesday,Training,Used,10.0,,Completed,Medium Lead,0.5556
+RES-0182,Multimedia Room,Student,Evening,4.0,21.0,Friday,Class Activity,Cancelled,0.0,3.0,Not Completed,Short Lead,0.0
+RES-0183,Laboratory,Student,Evening,5.0,16.0,Friday,Organization Event,Used,10.0,,Completed,Short Lead,0.625
+RES-0184,Classroom,Student,Afternoon,26.0,45.0,Wednesday,Training,Used,31.0,,Completed,Early Booking,0.6889
+RES-0185,Conference Room,Organization,Morning,18.0,36.0,Friday,Workshop,Used,18.0,,Completed,Early Booking,0.5
+RES-0186,Conference Room,Faculty,Evening,9.0,36.0,Tuesday,Class Activity,Used,27.0,,Completed,Medium Lead,0.75
+RES-0187,Laboratory,Student,Morning,9.0,44.0,Wednesday,Workshop,Used,24.0,,Completed,Medium Lead,0.5455
+RES-0188,Classroom,Student,Morning,5.0,65.0,Monday,Organization Event,Cancelled,0.0,11.0,Not Completed,Short Lead,0.0
+RES-0189,Conference Room,Student,Morning,13.0,6.0,Friday,Class Activity,Cancelled,0.0,13.0,Not Completed,Medium Lead,0.0
+RES-0190,Classroom,Student,Evening,6.0,18.0,Friday,Class Activity,Used,18.0,,Completed,Short Lead,1.0
+RES-0191,Multimedia Room,Organization,Afternoon,8.0,20.0,Friday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0192,Classroom,Student,Evening,6.0,17.0,Friday,Meeting,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0193,Classroom,Student,Evening,17.0,14.0,Saturday,Training,Used,6.0,,Completed,Early Booking,0.4286
+RES-0194,Conference Room,Faculty,Morning,9.0,24.0,Tuesday,Meeting,Cancelled,0.0,8.0,Not Completed,Medium Lead,0.0
+RES-0195,Classroom,Student,Evening,11.0,12.0,Saturday,Workshop,Cancelled,0.0,0.0,Not Completed,Medium Lead,0.0
+RES-0196,Classroom,Student,Afternoon,4.0,32.0,Thursday,Class Activity,Used,18.0,,Completed,Short Lead,0.5625
+RES-0197,Laboratory,Faculty,Afternoon,6.0,29.0,Wednesday,Class Activity,Cancelled,0.0,14.0,Not Completed,Short Lead,0.0
+RES-0198,Multimedia Room,Faculty,Morning,11.0,34.0,Wednesday,Class Activity,Used,27.0,,Completed,Medium Lead,0.7941
+RES-0199,Classroom,Organization,Evening,2.0,35.0,Tuesday,Organization Event,Cancelled,0.0,12.0,Not Completed,Last Minute,0.0
+RES-0200,Classroom,Faculty,Morning,9.0,36.0,Tuesday,Workshop,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0201,Conference Room,Student,Morning,10.0,23.0,Tuesday,Meeting,Cancelled,0.0,14.0,Not Completed,Medium Lead,0.0
+RES-0202,Multimedia Room,Faculty,Afternoon,4.0,56.0,Monday,Training,Cancelled,0.0,8.0,Not Completed,Short Lead,0.0
+RES-0203,Laboratory,Organization,Morning,20.0,31.0,Wednesday,Class Activity,Cancelled,0.0,10.0,Not Completed,Early Booking,0.0
+RES-0204,Classroom,Faculty,Morning,13.0,4.0,Friday,Class Activity,Cancelled,0.0,11.0,Not Completed,Medium Lead,0.0
+RES-0205,Classroom,Organization,Afternoon,9.0,15.0,Thursday,Class Activity,Used,13.0,,Completed,Medium Lead,0.8667
+RES-0206,Classroom,Faculty,Morning,6.0,5.0,Wednesday,Organization Event,Used,2.0,,Completed,Short Lead,0.4
+RES-0207,Classroom,Organization,Evening,2.0,28.0,Wednesday,Workshop,Cancelled,0.0,9.0,Not Completed,Last Minute,0.0
+RES-0208,Conference Room,Student,Morning,19.0,26.0,Wednesday,Workshop,Used,17.0,,Completed,Early Booking,0.6538
+RES-0209,Classroom,Faculty,Afternoon,7.0,22.0,Tuesday,Class Activity,Used,20.0,,Completed,Short Lead,0.9091
+RES-0210,Laboratory,Student,Afternoon,3.0,54.0,Friday,Class Activity,Used,40.0,,Completed,Short Lead,0.7407
+RES-0211,Conference Room,Faculty,Afternoon,6.0,35.0,Monday,Workshop,Cancelled,0.0,7.0,Not Completed,Short Lead,0.0
+RES-0212,Laboratory,Faculty,Afternoon,14.0,37.0,Thursday,Meeting,Used,33.0,,Completed,Medium Lead,0.8919
+RES-0213,Classroom,Organization,Afternoon,12.0,16.0,Friday,Organization Event,Used,14.0,,Completed,Medium Lead,0.875
+RES-0214,Conference Room,Organization,Evening,4.0,15.0,Thursday,Training,Used,11.0,,Completed,Short Lead,0.7333
+RES-0215,Conference Room,Student,Morning,21.0,28.0,Friday,Meeting,Used,20.0,,Completed,Early Booking,0.7143
+RES-0216,Conference Room,Faculty,Morning,3.0,30.0,Tuesday,Training,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0217,Classroom,Faculty,Afternoon,24.0,4.0,Friday,Organization Event,Used,2.0,,Completed,Early Booking,0.5
+RES-0218,Classroom,Student,Evening,12.0,26.0,Thursday,Meeting,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0219,Multimedia Room,Student,Morning,8.0,28.0,Friday,Workshop,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0220,Laboratory,Student,Afternoon,8.0,25.0,Thursday,Organization Event,Used,14.0,,Completed,Medium Lead,0.56
+RES-0221,Classroom,Faculty,Evening,11.0,17.0,Friday,Class Activity,Cancelled,0.0,1.0,Not Completed,Medium Lead,0.0
+RES-0222,Laboratory,Student,Evening,15.0,21.0,Saturday,Organization Event,Cancelled,0.0,5.0,Not Completed,Early Booking,0.0
+RES-0223,Conference Room,Organization,Evening,2.0,26.0,Wednesday,Class Activity,Cancelled,0.0,13.0,Not Completed,Last Minute,0.0
+RES-0224,Multimedia Room,Student,Afternoon,6.0,29.0,Friday,Workshop,Used,16.0,,Completed,Short Lead,0.5517
+RES-0225,Classroom,Organization,Afternoon,11.0,36.0,Thursday,Training,Used,27.0,,Completed,Medium Lead,0.75
+RES-0226,Multimedia Room,Student,Morning,21.0,42.0,Wednesday,Workshop,Cancelled,0.0,0.0,Not Completed,Early Booking,0.0
+RES-0227,Classroom,Organization,Evening,21.0,24.0,Saturday,Meeting,Cancelled,0.0,6.0,Not Completed,Early Booking,0.0
+RES-0228,Laboratory,Student,Morning,27.0,22.0,Wednesday,Workshop,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0229,Laboratory,Faculty,Evening,20.0,34.0,Wednesday,Class Activity,Cancelled,0.0,10.0,Not Completed,Early Booking,0.0
+RES-0230,Classroom,Organization,Morning,5.0,36.0,Monday,Class Activity,Used,35.0,,Completed,Short Lead,0.9722
+RES-0231,Classroom,Organization,Afternoon,10.0,22.0,Tuesday,Class Activity,Cancelled,0.0,2.0,Not Completed,Medium Lead,0.0
+RES-0232,Laboratory,Organization,Afternoon,20.0,38.0,Friday,Workshop,Used,37.0,,Completed,Early Booking,0.9737
+RES-0233,Multimedia Room,Student,Afternoon,19.0,41.0,Wednesday,Meeting,Cancelled,0.0,7.0,Not Completed,Early Booking,0.0
+RES-0234,Laboratory,Student,Evening,9.0,45.0,Wednesday,Class Activity,Used,27.0,,Completed,Medium Lead,0.6
+RES-0235,Multimedia Room,Student,Morning,14.0,51.0,Tuesday,Organization Event,Used,46.0,,Completed,Medium Lead,0.902
+RES-0236,Conference Room,Student,Afternoon,7.0,17.0,Wednesday,Meeting,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0237,Laboratory,Faculty,Morning,3.0,28.0,Friday,Meeting,Cancelled,0.0,3.0,Not Completed,Short Lead,0.0
+RES-0238,Conference Room,Faculty,Morning,9.0,28.0,Friday,Meeting,Cancelled,0.0,3.0,Not Completed,Medium Lead,0.0
+RES-0239,Classroom,Faculty,Afternoon,9.0,27.0,Monday,Class Activity,Used,24.0,,Completed,Medium Lead,0.8889
+RES-0240,Classroom,Organization,Morning,7.0,20.0,Thursday,Training,Used,18.0,,Completed,Short Lead,0.9
+RES-0241,Conference Room,Faculty,Morning,15.0,9.0,Wednesday,Meeting,Cancelled,0.0,6.0,Not Completed,Early Booking,0.0
+RES-0242,Conference Room,Organization,Afternoon,9.0,29.0,Thursday,Class Activity,Cancelled,0.0,4.0,Not Completed,Medium Lead,0.0
+RES-0243,Classroom,Student,Afternoon,13.0,18.0,Wednesday,Organization Event,Cancelled,0.0,3.0,Not Completed,Medium Lead,0.0
+RES-0244,Laboratory,Student,Afternoon,17.0,29.0,Wednesday,Training,Cancelled,0.0,1.0,Not Completed,Early Booking,0.0
+RES-0245,Laboratory,Faculty,Morning,39.0,18.0,Wednesday,Training,Used,17.0,,Completed,Early Booking,0.9444
+RES-0246,Multimedia Room,Organization,Morning,9.0,14.0,Thursday,Organization Event,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0247,Laboratory,Student,Morning,22.0,31.0,Wednesday,Organization Event,Used,15.0,,Completed,Early Booking,0.4839
+RES-0248,Laboratory,Student,Evening,12.0,30.0,Wednesday,Class Activity,Cancelled,0.0,0.0,Not Completed,Medium Lead,0.0
+RES-0249,Laboratory,Faculty,Evening,12.0,36.0,Friday,Workshop,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0250,Laboratory,Student,Morning,10.0,56.0,Thursday,Workshop,Cancelled,0.0,10.0,Not Completed,Medium Lead,0.0
+RES-0251,Conference Room,Student,Afternoon,11.0,32.0,Tuesday,Class Activity,Cancelled,0.0,5.0,Not Completed,Medium Lead,0.0
+RES-0252,Multimedia Room,Organization,Morning,9.0,34.0,Friday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0253,Laboratory,Faculty,Morning,19.0,14.0,Friday,Class Activity,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0254,Classroom,Student,Morning,6.0,11.0,Monday,Workshop,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0255,Classroom,Organization,Morning,3.0,49.0,Thursday,Training,Cancelled,0.0,12.0,Not Completed,Short Lead,0.0
+RES-0256,Conference Room,Student,Afternoon,7.0,16.0,Tuesday,Training,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0257,Conference Room,Organization,Evening,6.0,14.0,Thursday,Class Activity,Cancelled,0.0,7.0,Not Completed,Short Lead,0.0
+RES-0258,Classroom,Student,Morning,7.0,27.0,Tuesday,Class Activity,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0259,Classroom,Faculty,Afternoon,9.0,27.0,Thursday,Meeting,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0260,Laboratory,Student,Afternoon,7.0,16.0,Tuesday,Meeting,Used,16.0,,Completed,Short Lead,1.0
+RES-0261,Classroom,Student,Evening,9.0,24.0,Wednesday,Organization Event,Cancelled,0.0,5.0,Not Completed,Medium Lead,0.0
+RES-0262,Conference Room,Organization,Afternoon,7.0,44.0,Saturday,Organization Event,Cancelled,0.0,10.0,Not Completed,Short Lead,0.0
+RES-0263,Classroom,Student,Morning,14.0,18.0,Tuesday,Organization Event,Used,9.0,,Completed,Medium Lead,0.5
+RES-0264,Classroom,Student,Afternoon,39.0,10.0,Friday,Organization Event,Cancelled,0.0,14.0,Not Completed,Early Booking,0.0
+RES-0265,Multimedia Room,Student,Morning,12.0,40.0,Saturday,Organization Event,Cancelled,0.0,14.0,Not Completed,Medium Lead,0.0
+RES-0266,Classroom,Faculty,Evening,7.0,34.0,Friday,Meeting,Used,30.0,,Completed,Short Lead,0.8824
+RES-0267,Classroom,Organization,Morning,1.0,20.0,Monday,Class Activity,Cancelled,0.0,0.0,Not Completed,Last Minute,0.0
+RES-0268,Classroom,Organization,Afternoon,31.0,7.0,Friday,Class Activity,Cancelled,0.0,4.0,Not Completed,Early Booking,0.0
+RES-0269,Classroom,Student,Morning,12.0,18.0,Monday,Meeting,Cancelled,0.0,13.0,Not Completed,Medium Lead,0.0
+RES-0270,Classroom,Student,Morning,9.0,27.0,Wednesday,Class Activity,Cancelled,0.0,12.0,Not Completed,Medium Lead,0.0
+RES-0271,Classroom,Student,Evening,1.0,43.0,Friday,Class Activity,Cancelled,0.0,1.0,Not Completed,Last Minute,0.0
+RES-0272,Classroom,Faculty,Afternoon,9.0,15.0,Thursday,Organization Event,Used,11.0,,Completed,Medium Lead,0.7333
+RES-0273,Classroom,Organization,Afternoon,11.0,27.0,Wednesday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0274,Laboratory,Faculty,Evening,7.0,37.0,Tuesday,Organization Event,Used,37.0,,Completed,Short Lead,1.0
+RES-0275,Conference Room,Faculty,Evening,3.0,1.0,Friday,Training,Cancelled,0.0,14.0,Not Completed,Short Lead,0.0
+RES-0276,Laboratory,Student,Morning,3.0,41.0,Thursday,Workshop,Cancelled,0.0,11.0,Not Completed,Short Lead,0.0
+RES-0277,Classroom,Organization,Afternoon,32.0,13.0,Wednesday,Workshop,Used,7.0,,Completed,Early Booking,0.5385
+RES-0278,Laboratory,Student,Afternoon,11.0,32.0,Friday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0279,Multimedia Room,Student,Afternoon,7.0,31.0,Tuesday,Workshop,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0280,Conference Room,Student,Morning,11.0,42.0,Monday,Class Activity,Cancelled,0.0,8.0,Not Completed,Medium Lead,0.0
+RES-0281,Classroom,Student,Morning,10.0,35.0,Thursday,Organization Event,Used,28.0,,Completed,Medium Lead,0.8
+RES-0282,Classroom,Student,Evening,3.0,1.0,Saturday,Class Activity,Cancelled,0.0,8.0,Not Completed,Short Lead,0.0
+RES-0283,Classroom,Student,Evening,18.0,18.0,Tuesday,Class Activity,Cancelled,0.0,7.0,Not Completed,Early Booking,0.0
+RES-0284,Classroom,Student,Evening,9.0,30.0,Tuesday,Workshop,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0285,Laboratory,Faculty,Evening,11.0,25.0,Monday,Workshop,Cancelled,0.0,1.0,Not Completed,Medium Lead,0.0
+RES-0286,Laboratory,Student,Evening,25.0,34.0,Friday,Meeting,Cancelled,0.0,13.0,Not Completed,Early Booking,0.0
+RES-0287,Classroom,Student,Evening,3.0,38.0,Tuesday,Workshop,Cancelled,0.0,12.0,Not Completed,Short Lead,0.0
+RES-0288,Laboratory,Organization,Evening,6.0,36.0,Wednesday,Class Activity,Cancelled,0.0,2.0,Not Completed,Short Lead,0.0
+RES-0289,Laboratory,Faculty,Afternoon,13.0,25.0,Saturday,Workshop,Used,22.0,,Completed,Medium Lead,0.88
+RES-0290,Classroom,Student,Afternoon,18.0,4.0,Monday,Class Activity,Cancelled,0.0,5.0,Not Completed,Early Booking,0.0
+RES-0291,Conference Room,Student,Morning,6.0,22.0,Wednesday,Class Activity,Cancelled,0.0,6.0,Not Completed,Short Lead,0.0
+RES-0292,Classroom,Organization,Afternoon,7.0,33.0,Wednesday,Class Activity,Cancelled,0.0,12.0,Not Completed,Short Lead,0.0
+RES-0293,Multimedia Room,Student,Morning,16.0,14.0,Friday,Class Activity,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0294,Classroom,Student,Morning,37.0,36.0,Tuesday,Class Activity,Used,28.0,,Completed,Early Booking,0.7778
+RES-0295,Conference Room,Organization,Afternoon,11.0,40.0,Wednesday,Meeting,Used,19.0,,Completed,Medium Lead,0.475
+RES-0296,Multimedia Room,Student,Morning,6.0,30.0,Monday,Class Activity,Cancelled,0.0,12.0,Not Completed,Short Lead,0.0
+RES-0297,Multimedia Room,Faculty,Morning,4.0,1.0,Thursday,Class Activity,Cancelled,0.0,13.0,Not Completed,Short Lead,0.0
+RES-0298,Conference Room,Faculty,Evening,9.0,11.0,Friday,Meeting,Used,5.0,,Completed,Medium Lead,0.4545
+RES-0299,Conference Room,Faculty,Evening,18.0,53.0,Monday,Class Activity,Used,45.0,,Completed,Early Booking,0.8491
+RES-0300,Laboratory,Student,Morning,45.0,21.0,Wednesday,Workshop,Cancelled,0.0,7.0,Not Completed,Early Booking,0.0
+RES-0301,Conference Room,Student,Morning,8.0,2.0,Friday,Organization Event,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0302,Classroom,Student,Morning,11.0,44.0,Monday,Meeting,Used,22.0,,Completed,Medium Lead,0.5
+RES-0303,Laboratory,Student,Evening,28.0,28.0,Tuesday,Organization Event,Used,27.0,,Completed,Early Booking,0.9643
+RES-0304,Laboratory,Organization,Evening,13.0,42.0,Wednesday,Class Activity,Cancelled,0.0,10.0,Not Completed,Medium Lead,0.0
+RES-0305,Conference Room,Student,Morning,12.0,32.0,Tuesday,Class Activity,Used,23.0,,Completed,Medium Lead,0.7188
+RES-0306,Laboratory,Faculty,Evening,25.0,34.0,Tuesday,Training,Cancelled,0.0,11.0,Not Completed,Early Booking,0.0
+RES-0307,Laboratory,Organization,Morning,11.0,33.0,Wednesday,Training,Cancelled,0.0,14.0,Not Completed,Medium Lead,0.0
+RES-0308,Laboratory,Faculty,Morning,5.0,37.0,Monday,Training,Used,17.0,,Completed,Short Lead,0.4595
+RES-0309,Classroom,Student,Evening,22.0,58.0,Wednesday,Class Activity,Cancelled,0.0,11.0,Not Completed,Early Booking,0.0
+RES-0310,Classroom,Student,Morning,2.0,41.0,Thursday,Training,Used,30.0,,Completed,Last Minute,0.7317
+RES-0311,Laboratory,Organization,Morning,20.0,7.0,Thursday,Meeting,Used,6.0,,Completed,Early Booking,0.8571
+RES-0312,Laboratory,Faculty,Morning,10.0,34.0,Monday,Class Activity,Cancelled,0.0,10.0,Not Completed,Medium Lead,0.0
+RES-0313,Classroom,Organization,Afternoon,8.0,43.0,Friday,Class Activity,Cancelled,0.0,8.0,Not Completed,Medium Lead,0.0
+RES-0314,Laboratory,Organization,Evening,8.0,44.0,Monday,Organization Event,Cancelled,0.0,11.0,Not Completed,Medium Lead,0.0
+RES-0315,Laboratory,Faculty,Evening,9.0,22.0,Friday,Class Activity,Used,13.0,,Completed,Medium Lead,0.5909
+RES-0316,Classroom,Student,Morning,7.0,43.0,Tuesday,Training,Cancelled,0.0,7.0,Not Completed,Short Lead,0.0
+RES-0317,Laboratory,Faculty,Morning,14.0,40.0,Friday,Workshop,Used,39.0,,Completed,Medium Lead,0.975
+RES-0318,Conference Room,Student,Evening,8.0,61.0,Tuesday,Training,Cancelled,0.0,13.0,Not Completed,Medium Lead,0.0
+RES-0319,Classroom,Faculty,Morning,10.0,18.0,Monday,Workshop,Cancelled,0.0,1.0,Not Completed,Medium Lead,0.0
+RES-0320,Multimedia Room,Organization,Evening,2.0,21.0,Wednesday,Organization Event,Used,15.0,,Completed,Last Minute,0.7143
+RES-0321,Multimedia Room,Student,Afternoon,10.0,24.0,Monday,Class Activity,Cancelled,0.0,2.0,Not Completed,Medium Lead,0.0
+RES-0322,Laboratory,Student,Morning,7.0,22.0,Tuesday,Class Activity,Cancelled,0.0,13.0,Not Completed,Short Lead,0.0
+RES-0323,Classroom,Student,Evening,19.0,16.0,Thursday,Workshop,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0324,Laboratory,Organization,Morning,8.0,1.0,Friday,Meeting,Used,1.0,,Completed,Medium Lead,1.0
+RES-0325,Conference Room,Student,Morning,17.0,22.0,Monday,Class Activity,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0326,Conference Room,Student,Afternoon,16.0,33.0,Friday,Class Activity,Used,31.0,,Completed,Early Booking,0.9394
+RES-0327,Conference Room,Student,Afternoon,16.0,22.0,Friday,Class Activity,Cancelled,0.0,14.0,Not Completed,Early Booking,0.0
+RES-0328,Laboratory,Student,Afternoon,9.0,53.0,Friday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0329,Laboratory,Student,Afternoon,11.0,28.0,Thursday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0330,Classroom,Student,Evening,14.0,45.0,Thursday,Organization Event,Cancelled,0.0,3.0,Not Completed,Medium Lead,0.0
+RES-0331,Conference Room,Student,Evening,11.0,31.0,Wednesday,Class Activity,Cancelled,0.0,6.0,Not Completed,Medium Lead,0.0
+RES-0332,Classroom,Student,Afternoon,8.0,39.0,Thursday,Organization Event,Cancelled,0.0,3.0,Not Completed,Medium Lead,0.0
+RES-0333,Conference Room,Student,Morning,5.0,32.0,Friday,Organization Event,Cancelled,0.0,1.0,Not Completed,Short Lead,0.0
+RES-0334,Multimedia Room,Student,Afternoon,10.0,46.0,Monday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0335,Classroom,Student,Evening,3.0,29.0,Tuesday,Workshop,Used,29.0,,Completed,Short Lead,1.0
+RES-0336,Laboratory,Faculty,Morning,1.0,34.0,Monday,Workshop,Cancelled,0.0,6.0,Not Completed,Last Minute,0.0
+RES-0337,Classroom,Student,Afternoon,4.0,33.0,Saturday,Workshop,Cancelled,0.0,3.0,Not Completed,Short Lead,0.0
+RES-0338,Conference Room,Student,Morning,16.0,24.0,Wednesday,Class Activity,Cancelled,0.0,2.0,Not Completed,Early Booking,0.0
+RES-0339,Classroom,Student,Morning,12.0,33.0,Thursday,Class Activity,Cancelled,0.0,13.0,Not Completed,Medium Lead,0.0
+RES-0340,Multimedia Room,Student,Afternoon,16.0,57.0,Friday,Class Activity,Cancelled,0.0,4.0,Not Completed,Early Booking,0.0
+RES-0341,Classroom,Student,Morning,6.0,24.0,Saturday,Workshop,Cancelled,0.0,0.0,Not Completed,Short Lead,0.0
+RES-0342,Multimedia Room,Student,Evening,20.0,33.0,Monday,Organization Event,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0343,Conference Room,Organization,Evening,3.0,44.0,Friday,Workshop,Used,23.0,,Completed,Short Lead,0.5227
+RES-0344,Laboratory,Student,Evening,4.0,43.0,Friday,Workshop,Used,31.0,,Completed,Short Lead,0.7209
+RES-0345,Conference Room,Student,Morning,20.0,28.0,Monday,Organization Event,Used,15.0,,Completed,Early Booking,0.5357
+RES-0346,Conference Room,Student,Morning,11.0,1.0,Friday,Workshop,Used,1.0,,Completed,Medium Lead,1.0
+RES-0347,Multimedia Room,Student,Evening,16.0,35.0,Tuesday,Class Activity,Used,19.0,,Completed,Early Booking,0.5429
+RES-0348,Classroom,Student,Evening,12.0,1.0,Thursday,Organization Event,Cancelled,0.0,14.0,Not Completed,Medium Lead,0.0
+RES-0349,Laboratory,Faculty,Afternoon,7.0,47.0,Wednesday,Meeting,Used,26.0,,Completed,Short Lead,0.5532
+RES-0350,Classroom,Organization,Evening,4.0,30.0,Tuesday,Class Activity,Cancelled,0.0,9.0,Not Completed,Short Lead,0.0
+RES-0351,Laboratory,Student,Morning,2.0,41.0,Monday,Meeting,Used,19.0,,Completed,Last Minute,0.4634
+RES-0352,Classroom,Student,Evening,30.0,16.0,Monday,Organization Event,Cancelled,0.0,10.0,Not Completed,Early Booking,0.0
+RES-0353,Laboratory,Student,Morning,2.0,8.0,Monday,Class Activity,Cancelled,0.0,11.0,Not Completed,Last Minute,0.0
+RES-0354,Laboratory,Student,Morning,24.0,31.0,Thursday,Meeting,Used,18.0,,Completed,Early Booking,0.5806
+RES-0355,Laboratory,Faculty,Afternoon,11.0,28.0,Tuesday,Class Activity,Cancelled,0.0,14.0,Not Completed,Medium Lead,0.0
+RES-0356,Laboratory,Student,Morning,12.0,22.0,Tuesday,Class Activity,Cancelled,0.0,12.0,Not Completed,Medium Lead,0.0
+RES-0357,Conference Room,Student,Morning,12.0,29.0,Thursday,Class Activity,Cancelled,0.0,13.0,Not Completed,Medium Lead,0.0
+RES-0358,Conference Room,Organization,Morning,15.0,64.0,Thursday,Training,Used,39.0,,Completed,Early Booking,0.6094
+RES-0359,Laboratory,Student,Afternoon,6.0,39.0,Wednesday,Organization Event,Cancelled,0.0,10.0,Not Completed,Short Lead,0.0
+RES-0360,Laboratory,Student,Evening,1.0,42.0,Saturday,Class Activity,No-Show,0.0,,Not Completed,Last Minute,0.0
+RES-0361,Multimedia Room,Faculty,Morning,7.0,39.0,Tuesday,Class Activity,Used,30.0,,Completed,Short Lead,0.7692
+RES-0362,Classroom,Student,Afternoon,14.0,47.0,Friday,Class Activity,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0363,Classroom,Student,Evening,4.0,26.0,Monday,Class Activity,Cancelled,0.0,2.0,Not Completed,Short Lead,0.0
+RES-0364,Classroom,Student,Morning,20.0,1.0,Thursday,Meeting,Cancelled,0.0,12.0,Not Completed,Early Booking,0.0
+RES-0365,Conference Room,Organization,Morning,9.0,26.0,Saturday,Workshop,Used,21.0,,Completed,Medium Lead,0.8077
+RES-0366,Laboratory,Student,Evening,4.0,39.0,Friday,Workshop,Used,25.0,,Completed,Short Lead,0.641
+RES-0367,Conference Room,Student,Evening,11.0,15.0,Thursday,Meeting,Cancelled,0.0,1.0,Not Completed,Medium Lead,0.0
+RES-0368,Conference Room,Student,Afternoon,14.0,26.0,Thursday,Meeting,Cancelled,0.0,10.0,Not Completed,Medium Lead,0.0
+RES-0369,Classroom,Student,Evening,14.0,19.0,Tuesday,Class Activity,Cancelled,0.0,10.0,Not Completed,Medium Lead,0.0
+RES-0370,Multimedia Room,Faculty,Morning,20.0,48.0,Thursday,Class Activity,Cancelled,0.0,7.0,Not Completed,Early Booking,0.0
+RES-0371,Conference Room,Student,Morning,3.0,38.0,Friday,Organization Event,Cancelled,0.0,12.0,Not Completed,Short Lead,0.0
+RES-0372,Classroom,Faculty,Evening,20.0,36.0,Saturday,Training,Used,32.0,,Completed,Early Booking,0.8889
+RES-0373,Laboratory,Faculty,Morning,21.0,36.0,Wednesday,Organization Event,Used,31.0,,Completed,Early Booking,0.8611
+RES-0374,Classroom,Organization,Evening,4.0,28.0,Monday,Organization Event,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0375,Classroom,Student,Afternoon,4.0,31.0,Thursday,Workshop,Used,19.0,,Completed,Short Lead,0.6129
+RES-0376,Classroom,Organization,Evening,17.0,13.0,Monday,Organization Event,Cancelled,0.0,2.0,Not Completed,Early Booking,0.0
+RES-0377,Multimedia Room,Faculty,Afternoon,8.0,1.0,Tuesday,Meeting,Used,1.0,,Completed,Medium Lead,1.0
+RES-0378,Laboratory,Student,Morning,23.0,30.0,Tuesday,Class Activity,Used,29.0,,Completed,Early Booking,0.9667
+RES-0379,Laboratory,Faculty,Morning,27.0,32.0,Thursday,Class Activity,Used,21.0,,Completed,Early Booking,0.6562
+RES-0380,Conference Room,Organization,Morning,4.0,44.0,Monday,Class Activity,Used,41.0,,Completed,Short Lead,0.9318
+RES-0381,Laboratory,Student,Evening,5.0,48.0,Monday,Class Activity,Used,26.0,,Completed,Short Lead,0.5417
+RES-0382,Multimedia Room,Organization,Morning,11.0,48.0,Monday,Meeting,Cancelled,0.0,7.0,Not Completed,Medium Lead,0.0
+RES-0383,Conference Room,Student,Morning,1.0,15.0,Friday,Workshop,Cancelled,0.0,4.0,Not Completed,Last Minute,0.0
+RES-0384,Laboratory,Faculty,Morning,2.0,23.0,Thursday,Training,No-Show,0.0,,Not Completed,Last Minute,0.0
+RES-0385,Laboratory,Organization,Morning,5.0,34.0,Monday,Workshop,Cancelled,0.0,9.0,Not Completed,Short Lead,0.0
+RES-0386,Multimedia Room,Student,Evening,33.0,61.0,Monday,Class Activity,Used,36.0,,Completed,Early Booking,0.5902
+RES-0387,Conference Room,Organization,Morning,12.0,47.0,Wednesday,Training,Cancelled,0.0,11.0,Not Completed,Medium Lead,0.0
+RES-0388,Multimedia Room,Student,Evening,6.0,43.0,Tuesday,Meeting,Cancelled,0.0,9.0,Not Completed,Short Lead,0.0
+RES-0389,Classroom,Organization,Morning,4.0,23.0,Thursday,Class Activity,Used,11.0,,Completed,Short Lead,0.4783
+RES-0390,Conference Room,Faculty,Afternoon,4.0,17.0,Wednesday,Class Activity,Used,8.0,,Completed,Short Lead,0.4706
+RES-0391,Laboratory,Student,Afternoon,7.0,38.0,Saturday,Class Activity,No-Show,0.0,,Not Completed,Short Lead,0.0
+RES-0392,Classroom,Student,Morning,6.0,14.0,Tuesday,Class Activity,Cancelled,0.0,1.0,Not Completed,Short Lead,0.0
+RES-0393,Laboratory,Student,Evening,9.0,25.0,Thursday,Training,Used,14.0,,Completed,Medium Lead,0.56
+RES-0394,Conference Room,Student,Evening,14.0,27.0,Monday,Training,Cancelled,0.0,9.0,Not Completed,Medium Lead,0.0
+RES-0395,Classroom,Student,Evening,10.0,49.0,Saturday,Workshop,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0396,Laboratory,Student,Morning,17.0,23.0,Saturday,Class Activity,No-Show,0.0,,Not Completed,Early Booking,0.0
+RES-0397,Conference Room,Student,Morning,8.0,1.0,Thursday,Training,No-Show,0.0,,Not Completed,Medium Lead,0.0
+RES-0398,Classroom,Student,Afternoon,28.0,35.0,Wednesday,Workshop,Cancelled,0.0,4.0,Not Completed,Early Booking,0.0
+RES-0399,Laboratory,Faculty,Morning,17.0,19.0,Tuesday,Class Activity,Cancelled,0.0,7.0,Not Completed,Early Booking,0.0
+RES-0400,Laboratory,Faculty,Evening,12.0,29.0,Friday,Workshop,Cancelled,0.0,2.0,Not Completed,Medium Lead,0.0
